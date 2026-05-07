@@ -1,0 +1,168 @@
+textove znenie zadani (claude)
+
+Zadanie 1
+
+Programová časť: Načítaj šírku poličky zo vstupu, zo súboru načítaj šírky kníh (každá na riadku). Vypíš, či sa všetky knihy zmestia do jednej poličky. Ak nie, postupne rozdeľuj do jednotlivých poličiek. Vypíš, koľko poličiek je potrebných.
+
+Teoretická časť: Na internete vyhľadaj zadanú pesničku, stiahni a prehraj ju. Vysvetli princíp digitalizácie zvuku a formáty zvukových súborov. Skladba bola nahraná v CD kvalite (44,1 kHz; 2B; stereo) a trvá 2,5 minúty. Koľko MB zaberá na disku vo formáte WAV? Objasni autorské práva na zdroje pesničiek na internete – ich šírenie a sťahovanie.
+Zadanie 2
+
+Programová časť: Napíš program, ktorý bude na obrazovke zobrazovať náhodný tip dňa. Program náhodne vyberie reťazec z pripraveného textového súboru. Vybraný reťazec sa bude postupne zobrazovať od pravej strany obrazovky k ľavej strane. Ak sa reťazec dostane až k ľavej strane obrazovky, znovu sa objaví vpravo. (tipdna.txt)
+
+Teoretická časť: Do prezentácie I:\common\programovanie\virusy doplň chýbajúce údaje vyhľadané na internete. Popíš, ako si postupoval pri ich vyhľadávaní. Aké vyhľadávacie nástroje poznáš a ako sa pomocou nich vyhľadáva? Môžeš veriť všetkým informáciám, ktoré sú na internete? Je nutné uvádzať zdroje informácií použitých v práci?
+Zadanie 3
+
+Programová časť: Napíš program na jednoduchú variantu hry obesenec. Hráč postupne háda písmená – ak písmeno uhádol, vypíše sa na všetkých miestach v slove, kde sa nachádza. Hra končí po uhádnutí celého slova.
+
+Teoretická časť: Opíš možné pozície v softvérovej firme. Uveď spôsoby možnej straty súkromia na internete. Navrhni postupnosť krokov a potrebné vstupné informácie na vytvorenie aplikácie, ktorá bude slúžiť na automatizovanie sledovania nových pozícií v softvérových firmách.
+Zadanie 4
+
+Programová časť: V textovom súbore máme 50 rovnakých príkladov uložených v tvare + 23 15. Napíš program, ktorý vytvorí z daného súboru dva nové súbory – jeden so príkladmi na sčítanie a druhý na násobenie, spolu aj s výsledkami (napr. * 2 12 24). Sú oba súbory rovnako veľké?
+
+Teoretická časť: Vytváraš internetovú stránku. Na prvej stránke máš dva odkazy na stránky, ktoré si už vytvoril, ale jeden z nich nefunguje. Kde môže byť chyba? V druhom súbore oprav usporiadanie podľa priezviska. Túto stránku chceš zverejniť – ako budeš postupovať? Zhodnoť relevantnosť informácií na internete.
+Zadanie 5
+
+Programová časť: Vygeneruj a vykresli náhodnú krajinu. Náhodne vyber smer stúpania alebo klesania a bod zlomu. Postupne generuj a vykresľuj neklesajúcu alebo nerastúcu lomenú čiaru až po bod zlomu a následne zmeň smer stúpania alebo klesania. Oblasť pod lomenou čiarou vyfarbi náhodným odtieňom zelenej.
+
+Teoretická časť: (rovnaká ako v zadaní 4 – internetová stránka, usporiadanie podľa priezviska, zverejnenie, relevantnosť informácií na internete) ⚠️ Text sa opakuje, pravdepodobne ide o rovnakú teoretickú časť.
+Zadanie 6
+
+Programová časť: V textovom súbore hada.txt máme zapísaný priebeh hier „Háďa". V každom riadku je priebeh jednej hry – znaky reprezentujú smer pohybu (H – hore, D – dole, L – vľavo, P – vpravo), jeden znak = jeden krok. Príklad: HHHHDDDDDDDLLLLLLLLDH. Vytvorte program, ktorý zistí počet zapísaných hier, najdlhšiu hru a vytvorí kópiu súboru v komprimovanom tvare metódou opakujúcich sa znakov (napr. HHHHDDDDDDDLLLLLLLLDH → H 4 D 6 L 7 D 1 H 2).
+
+Teoretická časť: Aký tvar má e-mailová adresa? Z ktorých častí sa skladá e-mailová správa? Čo je Spam a Hoax? Všetky obrázky v priečinku I:\common\programovanie uprav na maximálnu veľkosť 400×300 a ulož vo formáte .jpg.
+Zadanie 7
+
+Programová časť: Napíšte program na hru „Padajúce písmenká". Program vygeneruje náhodné písmeno v strede prvého riadku obrazovky, ktoré bude postupne padať. Program končí, ak hráč nestlačí správne písmeno skôr, než sa dostane až na dno obrazovky.
+
+Teoretická časť: Aké spôsoby interaktívnej komunikácie poznáš? Aké pravidlá by sa mali pri tomto spôsobe komunikácie dodržiavať? Čo sú emotikony a na čo slúžia? Aké sú riziká spojené so zverejnením osobných údajov? Aké vstupné a výstupné zariadenia môžu byť použité pri tomto spôsobe komunikácie a stručne ich charakterizuj.
+Zadanie 8
+
+Programová časť: Napíš program, ktorý bude simulovať informačnú tabuľu v trolejbuse. V textovom súbore sú v riadkoch názvy zastávok. Program vypíše zoznam zastávok od prvej po poslednú a po stlačení ľubovoľnej klávesy sa zoznam vyroluje hore vždy o jednu zastávku.
+
+Teoretická časť: Potrebuješ inovovať prevádzkový poriadok ŠVL, ale máš len jeho tlačenú predlohu. Ako budeš postupovať? Aké zariadenia si použil? S akými formátmi si pracoval? Navrhni postup ako previesť obrázok do textovej podoby. Popíš možnosti páchania počítačovej kriminality pomocou digitálnej techniky, napr. falšovanie.
+Zadanie 9
+
+Programová časť: Napíšte program, ktorý bude simulovať nekonečný prejazd mestom. Vygenerujte a graficky znázornite panorámu mesta (20 rôzne vysokých budov v rade), ktorá sa bude postupne vykresľovať sprava doľava.
+
+Teoretická časť: Rozšír nasledovný text: 4d61747572697461. Popíš dvojkovú a šestnástkovú číselnú sústavu a vysvetli spôsob prevodu medzi nimi. Uveďte príklad použitia asymetrického šifrovania s použitím súkromného kľúča.
+Zadanie 10
+
+Programová časť: Napíšte program, ktorý nakreslí mriežku k piškvorkám pre zadaný počet riadkov/stĺpcov. Veľkosť jedného štvorčeka je 10×10. Ľavým tlačidlom myši kreslíme krížik, pravým tlačidlom krúžok. Zabezpeč, aby si hráči navzájom nemohli prepísať už označené políčka a aby sa striedali.
+
+Teoretická časť: Aké softvérové licencie poznáš a stručne ich charakterizuj. Ako môžu digitálne zariadenia pomáhať ľuďom so špeciálnymi potrebami?
+Zadanie 11
+
+Programová časť: Vygeneruj 20-prvkovú neklesajúcu postupnosť čísel. Pre zadané číslo vypíš index jeho výskytu. V prípade, že sa číslo v postupnosti nenachádza, vypíš dva po sebe idúce indexy, medzi ktorými by sa mohlo nachádzať.
+
+Teoretická časť: Aké spustiteľné súbory poznáš? Môžeš naraz spustiť viac takýchto súborov? Čo je multitasking? Aké riziko je spojené so spúšťaním neznámych aplikácií a aplikácií z neoverených zdrojov? Poznáš aj iné programy so škodlivým kódom?
+Zadanie 12
+
+Programová časť: V riadkoch textového súboru je uložené slovenské slovo a pomlčkou oddelený jeho preklad do anglického jazyka. Pre zadané slovo vypíš jeho preklad. Postupne prejdi obsah celého súboru a vymaž chybné riadky.
+
+Teoretická časť: Chceš si domov zaviesť pripojenie na internet. Vyhľadaj poskytovateľov pripojenia, údaje spracuj vo forme tabuľky a vyber najlepšieho. Aké spôsoby pripojenia ponúkajú? Podľa akých kritérií by si sa rozhodoval pri výbere konkrétneho programu? Objasni riziká počítačových sietí, možnosti prieniku do počítačového systému.
+Zadanie 13
+
+Programová časť: V textovom súbore si cyklista postupne zaznamenal všetky svoje výlety. V každom riadku je: cieľ, počet prejdených km a dátum cesty vo formáte RRMMDD, napr. 040722 131.1 Piestany. Koľkokrát cyklista v roku jazdil? Pre zadaný cieľ vypíš dátumy cesty. Pre každý mesiac vypíš priemerný počet odjazdených km. (cyklista.txt)
+
+Teoretická časť: V textovom súbore máme zaznamenané údaje: názov OS, rok a mesiac záznamu, počet predaných kusov. Údaje zobraz v grafickej forme. Aké typy operačných systémov sú v súbore uvedené? Stručne ich charakterizuj. Niektoré OS v zozname nie sú vôbec uvedené. Prečo? (os.txt)
+Zadanie 14
+
+Programová časť: V textovom súbore sú uložené trasy liniek mestskej hromadnej dopravy. V jednotlivých riadkoch je trasa linky v podobe postupnosti zastávok, napr. 03 13 24 02 05. Zisti, koľko liniek jazdí v meste a ktorá linka má najdlhšiu trasu. Pre všetky zastávky v meste zisti, koľko liniek cez ne prechádza. (mhd.txt)
+
+Teoretická časť: V súbore je časť mesta rozdelená na štvorcovú sieť a v každom políčku je zapísaná informácia o výške budovy na danom mieste. Vytvor grafické zobrazenie výškového profilu pri pohľade zo západu a z juhu. Odhadni veľkosť tvojho súboru s vizualizáciou a porovnaj aj veľkosť súboru s veľkosťou, ktorú súbor zaberá na disku. Za akých okolností sa budú údaje líšiť a čo ich ovplyvňuje? (mesto.txt)
+Zadanie 15
+
+Programová časť: Napíš program, ktorý v Morseovom kóde vypíše telegram uložený v textovom súbore. Morseova abeceda je uložená v textovom súbore (napr. A.-). Napíš program, ktorý pre zadané písmeno vypíše jeho morseový kód, postupne prečíta zo zadaného súboru jednotlivé písmená a prepíše ich do morseovho kódu.
+
+Teoretická časť: V zadanom texte nahraď vybrané malé písmená na začiatku viet veľkými. Upravený súbor ulož ako dokument Word. Prečo je pôvodný súbor menší? Akým spôsobom je kódovaný text? Popíš riziká internetového bankovníctva a ako sa proti nim chrániť.
+Zadanie 16
+
+Programová časť: Napíš program, ktorý hráčovi umožní nakresliť obrázok tak, že postupne pospája body v správnom poradí. Body sú zapísané v textovom súbore – v jednom riadku je poradové číslo bodu a jeho súradnice.
+
+Teoretická časť: V počítači nájdi včera vytvorený dokument. Zisti veľkosť zložky dokumenty a zostávajúce voľné miesto na disku C. Aké sú základné jednotky vyjadrujúce kapacitu a aké vzťahy sú medzi nimi? Aký operačný systém je na počítači nainštalovaný a akú plní funkciu?
+Zadanie 17
+
+Programová časť: Napíš program, ktorý zašifruje text v súbore pre zadaný číselný kľúč. Každé písmeno zo vstupného súboru zašifruje tak, že znak nahradí znakom posunutým o daný počet písmen vpravo.
+
+Teoretická časť: Aké spustiteľné súbory poznáš? Môžeš naraz spustiť viac takýchto súborov? Čo je multitasking? Aké riziko je spojené so spúšťaním neznámych aplikácií a aplikácií z neoverených zdrojov? Poznáš nejaké programy so škodlivým kódom?
+Zadanie 18
+
+Programová časť: Napíš program, ktorý zadaný reťazec vypíše v binárnom tvare.
+
+Teoretická časť: Ako dlho sa bude video sťahovať na počítač, ak prenosová rýchlosť medzi počítačmi je 256 kbps a súbor s videom má veľkosť 30 MB? Aké formáty multimediálnych súborov poznáš? Vysvetli, čím je určená rýchlosť lokálnej siete a čím rýchlosť internetu. Je vhodné, aby si zverejnil toto video na internete?
+Zadanie 19
+
+Programová časť: V textovom súbore sú uložené značky áut a suma za priestupok, ktorého sa vodiči dopustili. Napíšte program, ktorý pre zadanú značku overí, či sa v súbore nachádza, a zistí počet priestupkov a celkovú dlžnú sumu pre danú značku. Zistí celkový počet rôznych EČV v súbore.
+
+Teoretická časť: Vyhľadaj PC zostavu pre firmu, ktorá počítače potrebuje na komunikáciu s verejnou správou, komunikáciu so zákazníkmi a predajcami, na správu svojich financií a prehľadu stavu zásob a tovaru. Akým softvérom by si ju vybavil? Ponuku prezentuj. Opíš rôzne druhy softvéru z hľadiska jeho využitia. Vysvetli, čo je to otvorený softvér. Ktoré programy v počítači by si vedel aspoň čiastočne nahradiť službami na internete?
+Zadanie 20
+
+Programová časť: Vygeneruj 20-prvkové pole záporných čísel (napr. -5 -8 0 -1 -2 -8 0 -1). Napíš program, ktorý opakovane pre zadaný index i a hodnotu h pripočíta k prvku s indexom i hodnotu h. Na záver over, či je pole konštantné.
+
+Teoretická časť: Vytvorenú fotografiu ulož v rôznych grafických formátoch a svoj výber zdôvodni. Objasni úskalia zverejnenia fotografie na internete. Aké ďalšie vstupné a výstupné zariadenia sú nainštalované na počítači?
+Zadanie 21
+
+Programová časť: Vytvor program, ktorý simuluje preteky 10 lodičiek. Na obrazovke sa vypíše číslo lodičky, ktorá bola prvá.
+
+Teoretická časť: Vytvor koláž z obrázkov vtákov a pozadie. Môžeš obrázok publikovať na sociálnej sieti. Popíš možné nastavenie prístupových práv k obsahu v sociálnych sieťach, ako aj k priečinkom v počítačovej sieti.
+Zadanie 22
+
+Programová časť: Napíš program, ktorý pre zadaný reťazec zistí, či je palindrom. Vygeneruj náhodný palindrom pozostávajúci z písmen malej abecedy.
+
+Teoretická časť: Vypracuj návrh a rozpočet na kabeláž školskej siete v našej škole.
+Zadanie 23
+
+Programová časť: Vo vstupnom súbore sú trojice čísel, ktoré predstavujú číslo pretekára a jeho výkony v dvoch kolách slalomu (v sekundách). Číslo 0 = diskvalifikácia, napr. 329 56 47. Zisti, koľko pretekárov bolo diskvalifikovaných v prvom a koľko v druhom kole, a čas najrýchlejšieho pretekára v každom kole. Vypíš víťaza.
+
+Teoretická časť: Zisti veľkosť a parametre operačnej pamäte v počítači. Ktoré aplikácie a služby bežiace v operačnej pamäti môžeš vypnúť a ktoré by sa nemali vypínať. Veľkosť operačnej pamäte je 512 MB. Rozhodní o pravdivosti výrokov:
+
+    Ak je na každej strane 800-stranovej knihy 50 riadkov po 80 znakov, takýchto kníh sa do operačnej pamäte zmestí najviac 160.
+
+    Ak mám 0,5 gigabajtové video, tak sa mi celé zmestí do pamäte.
+
+    Môj digitálny fotoaparát robí fotografie vo formáte JPEG a každá zaberá 1280 KB, do pamäte počítača sa zmestí album so 420 fotografiami.
+
+Zadanie 24 ⚠️ Časť textu je na fotografii slabo čitateľná
+
+Programová časť: ⚠️ Program, ktorý umožní (text nečitateľný) – pravdepodobne ide o nejaký druh interaktívnej aplikácie s grafickým rozhraním.
+
+Teoretická časť: ⚠️ Časť textu nie je čitateľná.
+Zadanie 25
+
+Programová časť: Napíš program, ktorý bude simulovať pohyb štvorcov po obrazovke. Vygeneruj 50 štvorcov veľkosti 20×20. Smer pohybu je určený podľa súradnice y: párne y = smer vľavo, nepárne y = smer vpravo. Pohyb je nepretržitý a v prípade, že sa nachádzajú mimo obrazovky, vykreslia sa na protiľahlom okraji a opäť sa pohybujú tým istým smerom.
+
+Teoretická časť: Jednou úlohou súťažiacich je zistiť, čo ukrýva obrázok. Vytvor takýto postupne sa odkrývajúci obrázok. Aké rôzne možnosti máš? Aké obrázky môžeš použiť? Môžeš použiť obrázky stiahnuté z internetu? Nájdi voľné obrázky. Ako sa nové digitálne zariadenia používajú aj v umeleckej sfére.
+Zadanie 26
+
+Programová časť: Náš čiarový kód obsahuje 8-ciferné čísla, ktoré nezačínajú nulou. Každá číslica je znázornená čiarou, ktorej hrúbka je rovná hodnote. Vytvor program, ktorý vygeneruje náhodný kód a vypíše jeho číselnú hodnotu, graficky zobrazí čiarový kód, z textového súboru potom postupne prečíta všetky čiarové kódy a zobrazuje ich jednotlivo na obrazovke po stlačení tlačidla. (kod.txt)
+
+Teoretická časť: Vytvor vlajku európskej únie a popíš postup aký si zvolil. Akým spôsobom je zapísaná informácia v rastrovej grafike a akým vo vektorovej grafike? Aký typy tlačiarní poznáš a stručne popíš princíp ich činnosti. Ktoré povolania využívajú rôzne druhy grafického softvéru?
+Zadanie 27
+
+Programová časť: Vytvor program, ktorý umožní zaznamenať priebeh súťaže v skoku do diaľky tak, že sa bude ukladať meno a výkon žiaka. Po skončení súťaže vypíš meno a výkon žiaka, ktorý sa umiestnil na prvom mieste.
+
+Teoretická časť: Číslo 183 zapíš v binárnej sústave. Ako funguje prevod z dvojkovej do desiatkovej sústavy? Kde a ako môžu byť uložené prístupové heslá do systému? Akým spôsobom môžeme ochrániť tieto súbory pred inými používateľmi na lokálnom počítači a pri ich presune v počítačovej sieti?
+Zadanie 28
+
+Programová časť: V textovom súbore je zapísaný tovar na sklade: kód tovaru (5 znakov), počet kusov, cena za jeden kus. Napíšte program, ktorý určí počet rôznych druhov tovaru na sklade, vypočíta celkovú hodnotu tovaru v sklade a vypíše kód tovaru s najmenším počtom kusov na sklade.
+
+Teoretická časť: Máme loptičku, ktorú spúšťame z určitej výšky, a ktorá sa po odraze dostane do časti pôvodnej výšky. Ako by si simuloval priebeh jej pádov a odrazov? Ako budeš postupovať, ak by si celý proces chcel nasimuloval čo najpresnejšie a v akom formáte by si to uložil, ak by stačila len názorná ukážka? Čo by mohlo byť riešením a ako môžeš zdieľať výsledky pokusov s ostatnými žiakmi v triede.
+Zadanie 29 ⚠️
+
+Programová časť: Napíš program, ktorý zistí počet znakov v texte rôznych od medzery, čiarky a bodky, počet slov v texte a zastúpenie jednotlivých písmen malej abecedy.
+
+Teoretická časť: Vytvor animovaný banner s textom informujúcim o príkladoch dobrého a zlého hesla. Navrhni spôsob tvorby bezpečného hesla. Vysvetli, čo je to e-learning a aké sú jeho možnosti. Aké sú jeho nevýhody oproti klasickému vyučovaniu?
+Zadanie 30
+
+Programová časť: V parku sú na rôznych miestach posadené stromy. Ich poloha spolu s polomerom kruhu, ktorý predstavuje veľkosť koruny, je zapísaná v textovom súbore. Napíš program, ktorý vykreslí park a rozmiestnenie všetkých stromov aj s veľkosťou koruny a pre zadanú polohu vypíše, či je možné sadiť ďalší strom alebo nie (nie je možné sadiť pod korunu stromu). (stromy.txt)
+
+Teoretická časť: Fotografia mala pri 16-bitovom kódovaní veľkosť 2,3 MB. Aké rozlíšenie mal fotoaparát? Popíš možnosti využitia mobilného telefónu, tabletu, inteligentných hodiniek vo vyučovacom procese.
+Zadanie 31
+
+Programová časť: Napíš program, ktorý bude simulovať hru „Pacman". Pohyb pacmana bude nepretržitý a stlačením šípky mením len smer pohybu. Na náhodnej pozícii je umiestnený obrázok, ku ktorému sa musí dostať. Následne sa na inom náhodnom mieste objaví ďalší obrázok a celý proces sa bude opakovať.
+
+Teoretická časť: V textovom súbore sú uložené záznamy v tvare: trojpísmenový kód stanice, 5-miestny čas merania, nameraná teplota v stupňoch, rýchlosť vetra v m/s, typ oblačnosti, množstvo zrážok v mm, názov stanice: M01 06:30 -3.5 5 JJ 25 Liesek. Pre každú stanicu vypíš počet meraní. Vypíš priemernú rýchlosť vetra. Pre každú stanicu a čas merania vypíš odchýlku nameranej hodnoty rýchlosti vetra od priemernej rýchlosti. Aké riziko hrozí pri otvorení mailu s prílohami? Ako môžeme chrániť počítač pred vírusmi? (meteo.txt)
+
+Spolu je tu teda 31 zadaní (jedno, č. 24, je čiastočne nečitateľné). Každé zadanie obsahuje programovú a teoretickú časť. Povedz, s ktorým zadaním chceš začať a pomôžem ti ho vypracovať!
+
+Prepared using Claude Sonnet 4.6 Thinking

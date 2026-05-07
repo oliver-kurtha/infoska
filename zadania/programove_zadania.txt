@@ -1,0 +1,61 @@
+1. V textovom súbore je v každom riadku zapísaná šírka knihy v cm. Napíš program, ktorý načíta šírku poličky, vypíše, či sa všetky knihy zmestia do jednej poličky, a v prípade, že nie, postupne do jednotlivých riadkov vypisuje obsahy jednotlivých poličiek. Koľko poličiek danej šírky by si potreboval? [file:5]
+
+2. Napíš program, ktorý bude na obrazovke zobrazovať náhodný tip dňa. Program náhodne vyberie z pripraveného textového súboru reťazec. Vybraný reťazec sa bude postupne zobrazovať od pravej strany obrazovky k ľavej strane. Ak sa reťazec dostane až k ľavej strane obrazovky, znovu sa objaví vpravo. (tipdna.txt) [file:5]
+
+3. Napíš program na jednoduchú variantu hry obesenec, ktorá funguje nasledovne: hráč postupne háda písmená, ak písmeno uhádol, vypíše sa na všetkých miestach v slove, kde sa nachádza. Hra končí po uhádnutí celého slova. [file:5]
+
+4. V textovom súbore máme 50 rovnakých príkladov uložených v súbore v tvare: + 23 15. Napíš program, ktorý vytvorí z daného súboru dva nové súbory. Jeden súbor bude obsahovať len príklady na sčítanie a druhý na násobenie spolu aj s výsledkami: * 2 12 24. Sú oba súbory rovnako veľké? [file:5]
+
+5. Vygeneruj a vykresli náhodnú krajinu. Náhodne vyber smer stúpania alebo klesania a bod zlomu. Postupne generuj a vykresľuj neklesajúcu alebo nerastúcu lomenú čiaru až po bod zlomu a následne zmeňte smer stúpania alebo klesania. Oblasť pod lomenou čiarou vyfarbi náhodným odtieňom zelenej. [file:5]
+
+6. V textovom súbore hada.txt máme zapísaný priebeh hier „Háďa“. V každom riadku je zapísaný priebeh jednej hry. V riadku sú znaky, ktoré reprezentujú smer pohybu Háďaťa (H - hore, D - dole, L - vľavo, P - vpravo). Jeden znak symbolizuje jeden krok v danom smere. Vytvorte program, ktorý zistí počet zapísaných hier v súbore, najdlhšiu hru a vytvorí kópiu súboru v komprimovanom tvare použitím metódy opakujúcich sa znakov. [file:2]
+
+7. Napíšte program na hru „Padajúce písmenká“. Program vygeneruje náhodné písmeno v strede prvého riadku obrazovky, ktoré bude postupne padať. Program končí, ak hráč nestlačí správne písmeno skôr, než sa dostane až na dno obrazovky. [file:2]
+
+8. Napíš program, ktorý bude simulovať informačnú tabuľu v trolejbuse. V textovom súbore sú v riadkoch názvy zastávok. Napíš program, ktorý vypíše zoznam zastávok pod seba od prvej po poslednú a po stlačení ľubovoľnej klávesy sa zoznam vyroluje hore vždy o jednu zastávku. [file:3]
+
+9. Napíšte program, ktorý bude simulovať nekonečný prejazd mestom. Vygenerujte a graficky znázornite panorámu mesta (20 rôzne vysokých budov v rade), ktorá sa bude postupne vykresľovať sprava doľava. [file:3]
+
+10. Napíšte program, ktorý nakreslí mriežku k piškvorkám pre zadaný počet riadkov/stĺpcov. Veľkosť jedného štvorčeka je 10x10. Následne ľavým tlačidlom myši kreslíme do zadaného štvorčeka krížik, pravým tlačidlom kreslíme krúžok. Zabezpeč, aby si hráči navzájom nemohli prepísať už označené políčka a aby sa striedali. [file:3]
+
+11. Vygeneruj 20-prvkovú neklesajúcu postupnosť čísel. Pre zadané číslo vypíš index jeho výskytu. V prípade, že sa číslo v postupnosti nenachádza, vypíš dva po sebe idúce indexy, medzi ktorými by sa mohol nachádzať. [file:3]
+
+12. V riadkoch textového súboru je uložené slovenské slovo a pomlčkou oddelený jeho preklad do anglického jazyka. Pre zadané slovo vypíš jeho preklad. Postupne prejdi obsah celého súboru a vymaž chybné riadky. [file:3]
+
+13. V textovom súbore si cyklista postupne zaznamenal všetky svoje výlety. V každom riadku súboru je zaznamenaný cieľ, počet prejdených kilometrov a dátum cesty v tvare RRMMDD. Koľkokrát cyklista v roku jazdil? Pre zadaný cieľ vypíš dátumy cesty. Pre každý mesiac vypíš priemerný počet odjazdených kilometrov. (cyklista.txt) [file:4]
+
+14. V textovom súbore sú uložené trasy liniek mestskej hromadnej dopravy. V jednotlivých riadkoch je zaznamenaná trasa linky v podobe postupnosti jednotlivých zastávok, ktorými linka prechádza. Zisti koľko liniek jazdí v meste a ktorá linka má najdlhšiu trasu. Pre všetky zastávky v meste zisti koľko liniek cez ne prechádza. (mhd.txt) [file:4]
+
+15. Napíš program, ktorý v Morseovom kóde vypíše telegram uložený v textovom súbore. Morseova abeceda je uložená v textovom súbore nasledovným spôsobom: A.-. Napíš program, ktorý pre zadané písmeno vypíše jeho morseový kód, postupne prečíta zo zadaného súboru jednotlivé písmená a prepíše ich do morseovho kódu. [file:4]
+
+16. Napíš program, ktorý hráčovi umožní nakresliť obrázok tak, že postupne pospája body v správnom poradí. Body sú zapísané v textovom súbore nasledovným spôsobom. V jednom riadku je zapísané poradové číslo bodu a jeho súradnice. [file:4]
+
+17. Napíš program, ktorý zašifruje text v súbore pre zadaný číselný kľúč. Každé písmeno zo vstupného súboru zašifruje tak, že znak nahradíte znakom posunutým o daný počet písmen vpravo. [file:4]
+
+18. Napíš program, ktorý zadaný reťazec vypíše v binárnom tvare. [file:6]
+
+19. V textovom súbore sú uložené značky áut a suma za priestupok, ktorého sa vodiči dopustili. Napíšte program, ktorý pre zadanú značku overí, či sa v súbore nachádza a zistí počet priestupkov a celkovú dlžnú sumu pre danú značku. Zistí celkový počet rôznych EČV v súbore. [file:6]
+
+20. Vygeneruj 20-prvkové pole záporných čísel. Napíš program, ktorý opakovane pre zadaný index i a hodnotu h pripočíta k prvku s indexom i hodnotu h. Na záver overte, či je pole konštantné. [file:6]
+
+21. Vytvor program, ktorý simuluje preteky 10 lodičiek. Na obrazovke sa vypíše číslo lodičky, ktorá bola prvá. [file:6]
+
+22. Napíš program, ktorý pre zadaný reťazec zistí, či je palindrom. Vygeneruj náhodný palindrom pozostávajúci z písmen malej abecedy. [file:6]
+
+23. Vo vstupnom súbore sú trojice čísel, ktoré predstavujú číslo pretekára a jeho výkony v dvoch kolách slalomu. Číslo nula predstavuje diskvalifikáciu pretekára. Zisti koľko pretekárov bolo diskvalifikovaných v prvom a koľko v druhom kole a čas najrýchlejšieho pretekára v každom kole. Vypíš víťaza. [file:7]
+
+24. Programová časť tohto zadania je na fotke príliš nečitateľná, takže ju neviem spoľahlivo prepísať. [file:7]
+
+25. Napíš program, ktorý bude simulovať pohyb štvorcov po obrazovke. Vygeneruje 50 štvorcov veľkosti 20x20. Smer pohybu je určený podľa súradnice y: párne y – smer vľavo a nepárne y – smer vpravo. Pohyb je nepretržitý a v prípade, že sa nachádzajú mimo obrazovky, vykreslia sa na protiľahlom okraji a opäť sa pohybujú tým istým smerom. [file:8]
+
+26. Náš čiarový kód obsahuje 8 ciferné čísla, ktoré nezačínajú nulou. Každá číslica je znázornená čiarou, ktorej hrúbka je rovná hodnote. Vytvor program, ktorý vygeneruje náhodný kód a vypíše jeho číselnú hodnotu, graficky zobrazí čiarový kód, z textového súboru potom postupne prečíta všetky čiarové kódy a zobrazuje ich jednotlivo na obrazovke po stlačení tlačidla. (kod.txt) [file:8]
+
+27. Vytvor program, ktorý umožní zaznamenať priebeh súťaže v skoku do diaľky tak, že sa bude ukladať meno a výkon žiaka. Po skončení súťaže vypíš meno a výkon žiaka, ktorý sa umiestnil na prvom mieste. [file:8]
+
+28. V textovom súbore je zapísaný tovar na sklade v nasledovnom tvare: kód tovaru (5 znakov), počet kusov, cena za jeden kus. Napíšte program, ktorý určí počet rôznych druhov tovaru na sklade, vypočíta celkovú hodnotu tovaru v sklade a vypíše kód tovaru s najmenším počtom kusov na sklade. [file:8]
+
+29. Napíš program, ktorý zistí počet znakov v texte rôznych od medzery, čiarky a bodky, počet slov v texte a zastúpenie jednotlivých písmen malej abecedy. [file:1]
+
+30. V parku sú na rôznych miestach posadené stromy. Ich poloha spolu s polomerom kruhu, ktorý predstavuje veľkosť koruny, je zapísaná v textovom súbore. Napíš program, ktorý vykreslí park a rozmiestnenie všetkých stromov aj s veľkosťou koruny a pre zadanú polohu vypíše, či je možné sadiť ďalší strom alebo nie. (stromy.txt) [file:1]
+
+31. Napíš program, ktorý bude simulovať hru „Pacmann“. Pohyb pacmanna bude nepretržitý a stlačením šípky mením len smer pohybu. Na náhodnej pozícii je umiestnený obrázok, ku ktorému sa musí dostať. Následne sa na inom náhodnom mieste objaví ďalší obrázok a celý proces sa bude opakovať. [file:1]
