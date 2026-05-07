@@ -1,0 +1,13 @@
+macka-cat
+pero-pen
+kniha-book
+ceruzka-pencil
+meno-name
+strom-tree
+kvet-flower
+zviera-animal
+mys-mouse
+dom-house
+klavesnica-keyboard
+cvicenie-exercise
+osem-eight
