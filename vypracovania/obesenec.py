@@ -6,7 +6,7 @@ for i in word:
     guess_word += "?"
 
 print(guess_word)
- 
+
 guessed_chars = []
 while True:
     guess = input("pismeno: ")
