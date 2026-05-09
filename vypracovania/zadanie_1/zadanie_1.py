@@ -2,11 +2,11 @@
 
 # V textovom súbore je v každom riadku zapísaná šírka knihy v cm. Napíš program, ktorý načíta šírku poličky, vypíše, či sa všetky knihy zmestia do jednej poličky, a v prípade, že nie, postupne do jednotlivých riadkov vypisuje obsahy jednotlivých poličiek. Koľko poličiek danej šírky by si potreboval?
 
-f = open("sample_1.txt", "r")
+f = open("sample.txt", "r")
 sirky = []
 
 # zadanie sirky policky
-sirka_policky = int(input("Zadaj sirky jednej policky: "))
+sirka_policky = int(input("Zadaj sirku jednej policky: "))
 
 # zaradenie hodnot z textoveho suboru do pola
 while True:
@@ -28,6 +28,9 @@ for i in sirky:
         policky.append(terajsia_policka)
         terajsia_policka = [i]
         sirka = i
+
+if terajsia_policka != []:
+    policky.append(terajsia_policka)
 
 # vypisanie
 for i in policky:

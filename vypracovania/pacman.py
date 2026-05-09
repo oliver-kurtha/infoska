@@ -12,7 +12,6 @@ ciel_pos = [randint(50, 730), randint(50, 730)]
 
 def pohyb(e):
     global x, y, direction
-    canvas.delete("all")
     if e.keysym == "Right":
         direction = [1,0]
     elif e.keysym == "Left":
@@ -28,12 +27,11 @@ def zobraz():
     canvas.delete("all")
     x += direction[0]*5
     y += direction[1]*5
-    if abs((x+20) - (ciel_pos[0]+10)) <= 30 and abs((x+20) - (ciel_pos[0]+10)) <= 30:
+    if abs((x+20) - (ciel_pos[0]+10)) <= 30 and abs((y+20) - (ciel_pos[1]+10)) <= 30:
         zmen_ciel()
-        print(ciel_pos)
     canvas.create_rectangle(x, y, x+40, y+40, fill="red", outline="red")
     canvas.create_oval(ciel_pos[0], ciel_pos[1], ciel_pos[0]+20, ciel_pos[1]+20, fill="blue", outline="blue")
-    canvas.after(80, zobraz)
+    canvas.after(20, zobraz)
 
 
 def zmen_ciel():

@@ -11,7 +11,7 @@ canvas = tk.Canvas(width=800, height=800, highlightthickness=0)
 canvas.pack()
 
 tipy = []
-f = open("sample_2.txt", "r")
+f = open("sample.txt", "r")
 while True:
     line = f.readline().strip()
     if line == "":
@@ -29,7 +29,7 @@ def tip():
     if x <= 0:
         x = 803
     x -= 3
-    canvas.create_text(x, 400, anchor="w", text=text)
+    canvas.create_text(x, 400, text=text)
     canvas.after(5, tip)
 
 tip()
