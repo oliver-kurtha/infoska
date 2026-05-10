@@ -1,0 +1,28 @@
+040907 45.6 Horna Suca
+040716 34.8 Dolna Poruba - Horny Koniec
+040618 74.3 Nimnica
+040719 54.4 Chocholna - dolina
+040722 131.1 Piestany
+040802 21.7 Trencin
+040804 139.0 Piestany
+040907 45.6 Horna Suca
+040716 69.8 Dolna Poruba - Horny Koniec
+040818 74.3 Nimnica
+040619 54.4 Chocholna - dolina
+040721 130.1 Piestany
+040502 21.7 Trencin
+040804 139.0 Piestany
+041007 45.6 Horna Suca
+040716 23.8 Dolna Poruba - Horny Koniec
+040718 74.3 Nimnica
+041019 54.4 Nimnica
+040322 138.1 Piestany
+041102 21.7 Trencin
+040804 139.0 Piestany
+040707 45.6 Nimnica
+040716 34.8 Trencin
+040718 74.3 Nimnica
+040719 54.4 Chocholna - dolina
+040722 131.1 Piestany
+040402 21.7 Trencin
+041204 139.0 Piestany

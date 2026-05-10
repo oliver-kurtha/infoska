@@ -1,4 +1,8 @@
-f = open("slovnik.txt", "r")
+# Zadanie 12
+
+# V riadkoch textového súboru je uložené slovenské slovo a pomlčkou oddelený jeho preklad do anglického jazyka. Pre zadané slovo vypíš jeho preklad. Postupne prejdi obsah celého súboru a vymaž chybné riadky.
+
+f = open("sample.txt", "r")
 
 preklady = []
 
@@ -16,11 +20,10 @@ for i in preklady:
     if i[0] == sk_word:
         print("preklad: " + i[1])
 
-to_delete = []
 for i in preklady:
     print("sk: " + i[0])
     print("en: " + i[1])
-    to_delete_input = input("vymazat? y/n")
+    to_delete_input = input("vymazat? y/n ")
     if to_delete_input == "y":
         preklady.remove(i)
 
@@ -30,5 +33,4 @@ f = open("slovnik.txt", "w")
 for i in preklady:
     f.write(i[0]+"-"+i[1]+"\n")
 
-        
 

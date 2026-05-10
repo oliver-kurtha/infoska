@@ -1,6 +1,4 @@
-macka-cat
 pero-pen
-kniha-book
 ceruzka-pencil
 meno-name
 strom-tree
