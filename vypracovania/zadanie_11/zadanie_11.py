@@ -20,3 +20,4 @@ else:
         if num < i:
             print("Cislo sa nachadza medzi indexami " + str(postupnost.index(i)-1) + " a " + str(postupnost.index(i)))
             break
+
