@@ -44,18 +44,16 @@
 
 23. Vo vstupnom súbore sú trojice čísel, ktoré predstavujú číslo pretekára a jeho výkony v dvoch kolách slalomu. Číslo nula predstavuje diskvalifikáciu pretekára. Zisti koľko pretekárov bolo diskvalifikovaných v prvom a koľko v druhom kole a čas najrýchlejšieho pretekára v každom kole. Vypíš víťaza. [file:7]
 
-24. Programová časť tohto zadania je na fotke príliš nečitateľná, takže ju neviem spoľahlivo prepísať. [file:7]
+24. Napíš program, ktorý bude simulovať pohyb štvorcov po obrazovke. Vygeneruje 50 štvorcov veľkosti 20x20. Smer pohybu je určený podľa súradnice y: párne y – smer vľavo a nepárne y – smer vpravo. Pohyb je nepretržitý a v prípade, že sa nachádzajú mimo obrazovky, vykreslia sa na protiľahlom okraji a opäť sa pohybujú tým istým smerom. [file:8]
 
-25. Napíš program, ktorý bude simulovať pohyb štvorcov po obrazovke. Vygeneruje 50 štvorcov veľkosti 20x20. Smer pohybu je určený podľa súradnice y: párne y – smer vľavo a nepárne y – smer vpravo. Pohyb je nepretržitý a v prípade, že sa nachádzajú mimo obrazovky, vykreslia sa na protiľahlom okraji a opäť sa pohybujú tým istým smerom. [file:8]
+25. Náš čiarový kód obsahuje 8 ciferné čísla, ktoré nezačínajú nulou. Každá číslica je znázornená čiarou, ktorej hrúbka je rovná hodnote. Vytvor program, ktorý vygeneruje náhodný kód a vypíše jeho číselnú hodnotu, graficky zobrazí čiarový kód, z textového súboru potom postupne prečíta všetky čiarové kódy a zobrazuje ich jednotlivo na obrazovke po stlačení tlačidla. (kod.txt) [file:8]
 
-26. Náš čiarový kód obsahuje 8 ciferné čísla, ktoré nezačínajú nulou. Každá číslica je znázornená čiarou, ktorej hrúbka je rovná hodnote. Vytvor program, ktorý vygeneruje náhodný kód a vypíše jeho číselnú hodnotu, graficky zobrazí čiarový kód, z textového súboru potom postupne prečíta všetky čiarové kódy a zobrazuje ich jednotlivo na obrazovke po stlačení tlačidla. (kod.txt) [file:8]
+26. Vytvor program, ktorý umožní zaznamenať priebeh súťaže v skoku do diaľky tak, že sa bude ukladať meno a výkon žiaka. Po skončení súťaže vypíš meno a výkon žiaka, ktorý sa umiestnil na prvom mieste. [file:8]
 
-27. Vytvor program, ktorý umožní zaznamenať priebeh súťaže v skoku do diaľky tak, že sa bude ukladať meno a výkon žiaka. Po skončení súťaže vypíš meno a výkon žiaka, ktorý sa umiestnil na prvom mieste. [file:8]
+27. V textovom súbore je zapísaný tovar na sklade v nasledovnom tvare: kód tovaru (5 znakov), počet kusov, cena za jeden kus. Napíšte program, ktorý určí počet rôznych druhov tovaru na sklade, vypočíta celkovú hodnotu tovaru v sklade a vypíše kód tovaru s najmenším počtom kusov na sklade. [file:8]
 
-28. V textovom súbore je zapísaný tovar na sklade v nasledovnom tvare: kód tovaru (5 znakov), počet kusov, cena za jeden kus. Napíšte program, ktorý určí počet rôznych druhov tovaru na sklade, vypočíta celkovú hodnotu tovaru v sklade a vypíše kód tovaru s najmenším počtom kusov na sklade. [file:8]
+28. Napíš program, ktorý zistí počet znakov v texte rôznych od medzery, čiarky a bodky, počet slov v texte a zastúpenie jednotlivých písmen malej abecedy. [file:1]
 
-29. Napíš program, ktorý zistí počet znakov v texte rôznych od medzery, čiarky a bodky, počet slov v texte a zastúpenie jednotlivých písmen malej abecedy. [file:1]
+29. V parku sú na rôznych miestach posadené stromy. Ich poloha spolu s polomerom kruhu, ktorý predstavuje veľkosť koruny, je zapísaná v textovom súbore. Napíš program, ktorý vykreslí park a rozmiestnenie všetkých stromov aj s veľkosťou koruny a pre zadanú polohu vypíše, či je možné sadiť ďalší strom alebo nie. (stromy.txt) [file:1]
 
-30. V parku sú na rôznych miestach posadené stromy. Ich poloha spolu s polomerom kruhu, ktorý predstavuje veľkosť koruny, je zapísaná v textovom súbore. Napíš program, ktorý vykreslí park a rozmiestnenie všetkých stromov aj s veľkosťou koruny a pre zadanú polohu vypíše, či je možné sadiť ďalší strom alebo nie. (stromy.txt) [file:1]
-
-31. Napíš program, ktorý bude simulovať hru „Pacmann“. Pohyb pacmanna bude nepretržitý a stlačením šípky mením len smer pohybu. Na náhodnej pozícii je umiestnený obrázok, ku ktorému sa musí dostať. Následne sa na inom náhodnom mieste objaví ďalší obrázok a celý proces sa bude opakovať. [file:1]
+30. Napíš program, ktorý bude simulovať hru „Pacmann“. Pohyb pacmanna bude nepretržitý a stlačením šípky mením len smer pohybu. Na náhodnej pozícii je umiestnený obrázok, ku ktorému sa musí dostať. Následne sa na inom náhodnom mieste objaví ďalší obrázok a celý proces sa bude opakovať. [file:1]
