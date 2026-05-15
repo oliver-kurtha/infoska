@@ -10,8 +10,9 @@ canvas = tk.Canvas(width=800, height=800, highlightthickness=0)
 canvas.pack()
 
 direction = [0,1]
+x, y = 400,400
 def zmen_smer(e):
-    global direction
+    global direction, x, y 
     if e.keysym == "Up":
         direction = [0,-1]
     if e.keysym == "Down":
@@ -20,14 +21,17 @@ def zmen_smer(e):
         direction = [-1,0]
     if e.keysym == "Right":
         direction = [1,0]
+    if e.keysym == "space":
+        x, y = 400,400
 
-x, y = 400,400
+
+
 ciel = [randint(20,780),randint(20,780)]
 def zobraz():
     global x, y
     canvas.delete("all")
-    x += 6 * direction[0]
-    y += 6 * direction[1]
+    x += 3 * direction[0]
+    y += 3 * direction[1]
     x2 = ciel[0]
     y2 = ciel[1]
     canvas.create_rectangle(x-10,y-10,x+10,y+10,fill="blue",outline="blue")
