@@ -16,13 +16,20 @@ else:
     for i in range(polovica,polovica*2):
         pol_2 += slovo[i]
 pol_2 = "".join(reversed(pol_2))
-print(pol_2)
 if pol_1 == pol_2:
     print(f"Slovo {slovo} je palindrom!")
 else:
     print(f"Slovo {slovo} nie je palindrom :(")
 
-palindrom 
+from random import randint
+palindrom = ""
 
+for i in range(4):
+    pismeno = chr(randint(ord("a"),ord("z")))
+    palindrom += pismeno
+
+palindrom += "".join(reversed(palindrom))
+
+print(palindrom)
 
 
